@@ -141,7 +141,7 @@
         },
         "InstanceApp":{
             "Metadata":{
-                "Comment":"Note: The app teir creates a database, table, and a cron job that just runs an insert of a timestamp ever minute."
+                "Comment":"Note: The app teir creates a database, table, and a cron job that just runs an insert of a timestamp every minute."
             },
             "Type":"AWS::EC2::Instance",
             "Properties":{
